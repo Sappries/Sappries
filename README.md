@@ -6,7 +6,6 @@ I'm a young developer passionate about **backend development**, currently follow
 **JavaScript(i here) → TypeScript → Node.js → NestJS → React (for frontend basics)**
 
 
----
 
 ### 🔭 Current Focus
 - Learning **TypeScript** deeply  
