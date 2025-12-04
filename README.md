@@ -1,7 +1,5 @@
 ## Hi there 👋
 
----
-
 ### 🌱 About Me
 I'm a young developer passionate about **backend development**, currently following my roadmap:  
 
